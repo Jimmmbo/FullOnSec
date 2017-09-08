@@ -3,13 +3,15 @@ Tools for all things encryption, decryption and hashing
 ### [Quipqiup](https://quipqiup.com/)
 - Cryptogram solver
 
-### SHA 512 Hash Script
+SHA 512 Hash Script
+----
 ```
 hashed_password = hashlib.sha512(password.encode('password') + salt.encode('salt')).hexdigest()
 print(hashed_password)
 ```
 
-### Python AES Decode Script
+Python AES Decode Script 
+----
 ```
 # For this to work, you need to have pycrypto installed via pip, if it doesn't work uninstall 
 # crypto/pycrypto or both and then only install pycrypto 
@@ -32,7 +34,8 @@ cleartext = obj.decrypt(ciphertext)
 print("%s" % cleartext)
 ```
 
-### Salt Script 
+Salt Script 
+----
 ```
 <?php
 echo crypt('passwd', '$6$rounds=10000$salt$') . "\n";
