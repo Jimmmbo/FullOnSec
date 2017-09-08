@@ -4,5 +4,5 @@
 
 ### [Shodan.io](https://shodan.io)
 - Search engine for the internet of things 
-> you could, for instance, search for 'iomega' the online NAS device. 
+> you could for instance, search for 'iomega' the online NAS device. 
 
