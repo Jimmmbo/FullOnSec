@@ -1,6 +1,6 @@
 Tools for all things encryption, decryption and hashing
 
-### [Quipqiup](quipqiup.com)
+### Quipqiup
 - Cryptogram solver
 
 ### SHA 512 Hash Script
