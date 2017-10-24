@@ -7,3 +7,6 @@
 
 ### [Crt.sh](https://crt.sh/)
 - Scan websites for an insight on certificates with this tool 
+
+### [Internet.nl](https://internet.nl)
+- Scan websites for all DNS and TXT records. Find out if they have DMARC, DKIM and SPF + if they use DNSSEC and STARTTLS
