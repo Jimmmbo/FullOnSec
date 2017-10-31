@@ -54,3 +54,6 @@ you could replace **'$6$rounds=10000$salt$'** with the following:
 - **'$1$randomstr$'** where the '1' is for the MD5 algorithm and 'randomstr' should be replaced with whatever you want
 - **'$2a$07$usesomesillystringforsalt$'** where '$2a$'is for the Blowfish algorithm. You can use any letter out of the alphabet, upper or lower case, as long as it is with 2 cost parameters '$' and the number 2. This one is usually the best, as it is the slowest algorithm. 
 > always keep your salt as unique as possible, never use your standard salts. Use some long not so easy to guess string
+
+### [Hashcat](https://hashcat.net/hashcat/)
+- Fastest password recovery tool
