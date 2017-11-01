@@ -57,3 +57,6 @@ you could replace **'$6$rounds=10000$salt$'** with the following:
 
 ### [Hashcat](https://hashcat.net/hashcat/)
 - Fastest password recovery tool
+
+### [GoCrack](https://github.com/fireeye/gocrack)
+- FireEye's managed password cracking tool 
