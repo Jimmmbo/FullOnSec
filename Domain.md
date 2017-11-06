@@ -21,5 +21,5 @@
 - Check how identifiable you are on the internet 
 
 ### [Whois](https://whois.domaintools.com/)
-- Learn more about the network, (sub)domains and dns
+- Learn more about the network, (sub)domains and DNS
 
