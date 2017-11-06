@@ -1,3 +1,5 @@
+## These could be usefull for information gathering 
+
 ### [Censys.io](https://censys.io/)
 - Use: 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names:target.com. Where 'target.com' = the website you want to scan
 
@@ -16,4 +18,8 @@
 - To check if browser is safe against tracking
 
 ### [Amiunique?](https://amiunique.org/)
-- Learn how identifiable you are on the internet 
+- Check how identifiable you are on the internet 
+
+### [Whois](https://whois.domaintools.com/)
+- Learn more about the network, (sub)domains and dns
+
