@@ -23,7 +23,7 @@ nmap -p 80 -sV -sS -O ta.rg.et.IP
 ### Hping3
 - Packet generator. One of the de facto tools for security auditing and testing of firewalls and networks
 ```
-hping3 -c 100 -p 445 -S target.com oor ta.rg.et.IP
+hping3 -c 100 -p 445 -S target.com \ or ta.rg.et.IP
 ```
 
 ### Netcat 
