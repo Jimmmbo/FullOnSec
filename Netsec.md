@@ -33,7 +33,7 @@ nc mail.server.net 25
 ```
 
 ### [Whatweb](https://github.com/urbanadventurer/WhatWeb)
-- Identifying a website from SQL errors to which CMS is used etc. 
+- Identifying a website from SQL errors to which CMS is used etc. Kali has this installed by default
 
 ### [ZMAP](https://zmap.io/)
 - A collection of open source tools for discovery
