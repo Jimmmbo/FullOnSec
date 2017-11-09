@@ -27,7 +27,7 @@ hping3 -c 100 -p 445 -S target.com oor ta.rg.et.IP
 ```
 
 ### Netcat 
-- Great network tool for port listening, scanning, transferring files and can be used as a backdoor
+- Great network tool for port listening and establishing a connection to the webserver, scanning, transferring files and can be used as a backdoor
 ```
 nc mail.server.net 25
 ```
