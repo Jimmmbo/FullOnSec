@@ -28,3 +28,6 @@ hping3 -c 100 -p 445 -S target.com oor ta.rg.et.IP
 
 ### [ZMAP](https://zmap.io/)
 - A collection of open source tools for discovery
+
+### [Spiderfoot](http://www.spiderfoot.net/)
+- Open Source intelligence automation tool 
