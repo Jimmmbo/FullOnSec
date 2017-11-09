@@ -24,4 +24,7 @@
 - Learn more about the network, (sub)domains and DNS
 
 ### [Certstream](https://certstream.calidog.io/)
--  A free service and simple librarie for getting data from the Certificate Transparency Log (CTL) network in real time
+-  A free service and simple library for getting data from the Certificate Transparency Log (CTL) network in real time
+
+### [Netcraft](https://www.netcraft.com/)
+- Used for webserver identification and collecting available (sub)domains. 
