@@ -7,3 +7,6 @@
 
 ### Pentest guide to sub-domain enumeration 
 * https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
+
+### Open source tools for recon phase
+* https://blog.appsecco.com/open-source-intelligence-gathering-101-d2861d4429e3
