@@ -31,3 +31,6 @@
 
 ### [MXtoolbox](http://mxtoolbox.com/)
 - Another tool which could help with the recon phase, has all the functionality above tools have 
+
+### [DNSdumpster] (https://dnsdumpster.com/)
+- DNS recon & research, find & lookup DNS records
