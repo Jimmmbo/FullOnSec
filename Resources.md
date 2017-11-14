@@ -10,3 +10,6 @@
 
 ### Open source tools for recon phase
 * https://blog.appsecco.com/open-source-intelligence-gathering-101-d2861d4429e3
+
+### Dangers of biometric access to devices 
+* https://www.youtube.com/watch?v=VVxL9ymiyAU
