@@ -13,3 +13,6 @@
 
 ### Dangers of biometric access to devices 
 * https://www.youtube.com/watch?v=VVxL9ymiyAU
+
+### OSquery for incident response and detection 
+* https://github.com/palantir/osquery-configuration
