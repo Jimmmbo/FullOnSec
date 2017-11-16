@@ -43,3 +43,12 @@ whatweb -v www.target.com
 
 ### [Spiderfoot](http://www.spiderfoot.net/)
 - Open Source intelligence automation tool 
+
+### [Internet.nl](https://internet.nl)
+- Scan websites for all DNS and TXT records. Find out if they have DMARC, DKIM and SPF + if they use DNSSEC and STARTTLS
+
+### [Panopticlick](https://panopticlick.eff.org/)
+- To check if browser is safe against tracking
+
+### [Amiunique?](https://amiunique.org/)
+- Check how identifiable you are on the internet 
