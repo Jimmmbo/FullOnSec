@@ -10,16 +10,6 @@
 ### [Crt.sh](https://crt.sh/)
 - Scan websites for an insight on certificates with this tool 
 
-### [Internet.nl](https://internet.nl)
-- Scan websites for all DNS and TXT records. Find out if they have DMARC, DKIM and SPF + if they use DNSSEC and STARTTLS
-
-
-### [Panopticlick](https://panopticlick.eff.org/)
-- To check if browser is safe against tracking
-
-### [Amiunique?](https://amiunique.org/)
-- Check how identifiable you are on the internet 
-
 ### [Whois](https://whois.domaintools.com/)
 - Learn more about the network, (sub)domains and DNS
 
@@ -34,3 +24,4 @@
 
 ### [DNSdumpster](https://dnsdumpster.com/)
 - DNS recon & research, find & lookup DNS records
+
