@@ -16,3 +16,6 @@
 
 ### OSquery for incident response and detection 
 * https://github.com/palantir/osquery-configuration
+
+### ML for Cyber Security 
+* https://github.com/jivoi/awesome-ml-for-cybersecurity
