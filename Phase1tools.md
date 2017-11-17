@@ -60,3 +60,8 @@ nc mail.server.net 25
 ```
 whatweb -v www.target.com 
 ```
+### cURL
+- curl is a tool to transfer data from or to a server
+```
+curl --head target.com 
+```
