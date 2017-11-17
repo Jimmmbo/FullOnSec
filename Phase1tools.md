@@ -42,6 +42,10 @@ dig *.example.com +short
 ```
 nmap -p 80 -sV -sS -O ta.rg.et.IP
 ```
+Send ICMP requests and TCP scans on port 80 and 443 of the target: 
+``` 
+nmap -sn ta.rg.e.t 
+```
 
 ### Hping3
 - Packet generator. One of the de facto tools for security auditing and testing of firewalls and networks
