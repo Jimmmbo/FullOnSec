@@ -11,3 +11,6 @@
 
 ### [Burp Molly Pack](https://github.com/yandex/burp-molly-pack)
 - A pack with active and passive security checks
+
+### [Patator](https://github.com/lanjelot/patator)
+- A multi functional brute forcing tool
