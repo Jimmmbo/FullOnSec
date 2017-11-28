@@ -9,3 +9,5 @@
 ### [Pyrebox](https://github.com/Cisco-Talos/pyrebox)
 - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 
+### [Burp Molly Pack](https://github.com/yandex/burp-molly-pack)
+- A pack with active and passive security checks
