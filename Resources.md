@@ -19,3 +19,6 @@
 
 ### ML for Cyber Security 
 * https://github.com/jivoi/awesome-ml-for-cybersecurity
+
+### 600 somewhat lines of XSS vectors for attacking an API 
+* https://pastebin.com/48WdZR6L
