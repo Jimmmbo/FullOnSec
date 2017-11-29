@@ -22,3 +22,6 @@
 
 ### 600 somewhat lines of XSS vectors for attacking an API 
 * https://pastebin.com/48WdZR6L
+
+### Objective see. Tools for managing a healthy device. 
+* https://objective-see.com/index.html
