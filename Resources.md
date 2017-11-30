@@ -25,3 +25,6 @@
 
 ### Objective see. Tools for managing a healthy device. 
 * https://objective-see.com/index.html
+
+### SQL injection PayloadAllTheThings
+* https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20injection
