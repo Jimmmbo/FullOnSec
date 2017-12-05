@@ -28,3 +28,6 @@
 
 ### SQL injection PayloadAllTheThings
 * https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20injection
+
+### SMTP enumeration with Metasploit / NMAP 
+* https://pentestlab.blog/2012/11/20/smtp-user-enumeration/
