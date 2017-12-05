@@ -31,3 +31,6 @@
 
 ### SMTP enumeration with Metasploit / NMAP 
 * https://pentestlab.blog/2012/11/20/smtp-user-enumeration/
+
+### XXE
+* https://www.blackhillsinfosec.com/xml-external-entity-beyond-etcpasswd-fun-profit/
