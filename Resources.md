@@ -34,3 +34,6 @@
 
 ### XXE
 * https://www.blackhillsinfosec.com/xml-external-entity-beyond-etcpasswd-fun-profit/
+
+### Awesome Fuzzing
+* https://github.com/secfigo/Awesome-Fuzzing
