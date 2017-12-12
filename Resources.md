@@ -37,3 +37,6 @@
 
 ### Awesome Fuzzing
 * https://github.com/secfigo/Awesome-Fuzzing
+
+### Security planner 
+* https://securityplanner.org/#/all-recommendations
