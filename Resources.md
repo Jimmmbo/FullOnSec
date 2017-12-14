@@ -40,3 +40,6 @@
 
 ### Security planner 
 * https://securityplanner.org/#/all-recommendations
+
+### More XXE 
+* https://blog.zsec.uk/out-of-band-xxe-2/
