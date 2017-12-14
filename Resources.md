@@ -43,3 +43,6 @@
 
 ### More XXE 
 * https://blog.zsec.uk/out-of-band-xxe-2/
+
+### Anomalie detection with python 
+* https://www.datascience.com/blog/python-anomaly-detection
