@@ -46,3 +46,6 @@
 
 ### Anomalie detection with python 
 * https://www.datascience.com/blog/python-anomaly-detection
+
+### BRO IDS with machine learning
+* https://www.youtube.com/watch?v=pG5lU9CLnIU
