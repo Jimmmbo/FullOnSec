@@ -49,3 +49,6 @@
 
 ### BRO IDS with machine learning
 * https://www.youtube.com/watch?v=pG5lU9CLnIU
+
+### SecLists
+* https://github.com/danielmiessler/SecLists
