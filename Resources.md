@@ -55,3 +55,6 @@
 
 ### Binary Exploitation 
 * http://security.cs.rpi.edu/courses/binexp-spring2015/
+
+### Cyber Security Lectures
+* https://engineering.purdue.edu/kak/compsec/NewLectures/
