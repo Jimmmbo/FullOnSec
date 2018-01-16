@@ -69,3 +69,6 @@ whatweb -v www.target.com
 ```
 curl --head target.com 
 ```
+
+### Bucket Finder
+- https://digi.ninja/projects/bucket_finder.php
