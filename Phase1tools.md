@@ -72,3 +72,6 @@ curl --head target.com
 
 ### Bucket Finder
 - https://digi.ninja/projects/bucket_finder.php
+
+### Ports with tools
+- https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md
