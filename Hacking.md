@@ -16,4 +16,4 @@
 - A multi functional brute forcing tool
 
 ### [3snak](https://github.com/blendin/3snake)
-- Tool for dumping 
+- Tool for dumping sshd and sudo credential related strings
