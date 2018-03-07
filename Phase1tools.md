@@ -78,3 +78,6 @@ curl --head target.com
 
 ### AXFR subdomain enumeration 
 - https://github.com/UnaPibaGeek/ctfr
+
+### Tool for scanning open S3 buckets and dumping the contents 
+- https://github.com/sa7mon/S3Scanner 
