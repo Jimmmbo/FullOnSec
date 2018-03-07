@@ -75,3 +75,6 @@ curl --head target.com
 
 ### Ports with tools
 - https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md
+
+### AXFR subdomain enumeration 
+- https://github.com/UnaPibaGeek/ctfr
