@@ -3,11 +3,10 @@ Tools for all things encryption, decryption and hashing
 ### [Quipqiup](https://quipqiup.com/)
 - Cryptogram solver
 
-SHA 512 Hash Script
+Python SHA 512 Hash with salt one-liner 
 ----
 ```
-hashed_password = hashlib.sha512(password.encode('password') + salt.encode('salt')).hexdigest()
-print(hashed_password)
+python3 -c 'import crypt; print(crypt.crypt("test", crypt.mksalt(crypt.METHOD_SHA512)))'
 ```
 
 Python AES Decode Script 
