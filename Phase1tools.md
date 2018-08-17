@@ -81,3 +81,6 @@ curl --head target.com
 
 ### Tool for scanning open S3 buckets and dumping the contents 
 - https://github.com/sa7mon/S3Scanner 
+
+### Tool for checking subdomains that are vulnerable for takeover 
+- https://takeover.cyberint.com/ 
