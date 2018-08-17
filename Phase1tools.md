@@ -76,7 +76,7 @@ curl --head target.com
 ### Ports with tools
 - https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md
 
-### AXFR subdomain enumeration 
+### AXFR  
 - https://github.com/UnaPibaGeek/ctfr
 
 ### Tool for scanning open S3 buckets and dumping the contents 
