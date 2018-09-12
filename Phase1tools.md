@@ -84,3 +84,6 @@ curl --head target.com
 
 ### Tool for checking subdomains that are vulnerable for takeover 
 - https://takeover.cyberint.com/ 
+
+### Search engine for exploits
+- https://sploitus.com/
