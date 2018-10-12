@@ -59,3 +59,8 @@ you could replace **'$6$rounds=10000$salt$'** with the following:
 
 ### [GoCrack](https://github.com/fireeye/gocrack)
 - FireEye's managed password cracking tool 
+
+### Conver id_rsa to .pem
+```
+ssh-keygen -f id_rsa -m 'PEM' -e > private.pem
+```
