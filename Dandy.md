@@ -5,3 +5,6 @@
 
 ### Security Wiki
 - https://appsecwiki.com/#/serversidesecurity
+
+### Dref - DNS rebinding tool 
+- https://github.com/mwrlabs/dref
