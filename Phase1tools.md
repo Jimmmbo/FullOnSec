@@ -3,12 +3,14 @@
 ### [Censys.io](https://censys.io/)
 - Use: 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names:target.com. Where 'target.com' = the website you want to scan
 
+#### [CloudFlair](https://github.com/christophetd/CloudFlair)
+- A tool that scans for origin servers behind Cloudflare to reveal the true IP. Makes use of the Censys API to use internet-wide scans and looks for similarities in web content. 
+
 ### [Shodan.io](https://shodan.io)
 - Search engine for the internet of things 
-> you could for instance search for 'iomega' the online NAS device. 
 
 ### [Crt.sh](https://crt.sh/)
-- Scan websites for an insight on certificates with this tool 
+- Scan websites for an insight on certificates with this tool .
 
 ### [Whois](https://whois.domaintools.com/)
 - Learn more about the network, (sub)domains and DNS
