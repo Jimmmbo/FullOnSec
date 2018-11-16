@@ -11,3 +11,6 @@
 ### ssh-add
 - make sure ssh agent is running with `eval "$(ssh-agent -s)"`
 - then run `ssh-add`
+
+### bash aliases
+- in `.bash_profile` (macOS) or `.bashrc` (Linux) put `alias ls='ls -lahtr' for example 
