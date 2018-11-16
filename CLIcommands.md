@@ -7,3 +7,7 @@
 
 ### Bash oneliner to check all ssh keys that start with id_*
 - ` for key in ~/.ssh/id_*; do ssh-keygen -l -f "${key}"; done | uniq`
+
+### ssh-add
+- make sure ssh agent is running with `eval "$(ssh-agent -s)"`
+- then run `ssh-add`
