@@ -12,5 +12,8 @@
 - make sure ssh agent is running with `eval "$(ssh-agent -s)"`
 - then run `ssh-add`
 
-### bash aliases
+### Bash aliases
 - in `.bash_profile` (macOS) or `.bashrc` (Linux) put `alias ls='ls -lahtr' for example 
+
+### (Bash) regex for checking if an IPV4 is presented
+ - `if [[ $ip =~ ^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}$ ]]; then`
