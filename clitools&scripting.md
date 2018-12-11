@@ -17,3 +17,7 @@
 
 ### (Bash) regex for checking if an IPV4 is presented
  - `if [[ $ip =~ ^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}$ ]]; then`
+
+### Remove Windows carriage return (^M)
+- `sed -e 's/\r$//g' input > output`
+* Dit moet gerunt worden op een linux omgeving. Unix heeft 'sed' en 'tr' versies van FreeBSD
