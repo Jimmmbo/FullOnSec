@@ -21,3 +21,6 @@
 ### Remove Windows carriage return (^M)
 - `sed -e 's/\r$//g' input > output`
 * Dit moet gerunt worden op een linux omgeving. Unix heeft 'sed' en 'tr' versies van FreeBSD
+
+### Create random password in Linux by using the noise the drivers generate in urandom 
+- `head /dev/urandom | tr -dc A-Za-z0-9 | head -c10`
