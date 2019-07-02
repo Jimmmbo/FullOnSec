@@ -24,3 +24,4 @@
 
 ### Create random password in Linux by using the noise the drivers generate in urandom 
 - `head /dev/urandom | tr -dc A-Za-z0-9 | head -c10`
+* /dev/urandom kan gebruikt worden voor psuedo-random wachtwoorden. Wil je GPG/SSH keys maken, dan moet je /dev/random gebruiken omdat hier meer entropy aan toegevoegd wordt. /dev/random wacht ook echt op een zeker gehalte van entropy en kan dus blocken als dit niveau niet bereikt is, waar /dev/urandom nooit blocked. 
